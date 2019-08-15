@@ -1,0 +1,2 @@
+# ZPGCDTimer
+本Demo主要介绍了GCD定时器和CADisplayLink、NSTimer的区别，还对GCD定时器进行了封装。
